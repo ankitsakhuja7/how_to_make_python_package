@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: example-pkg
+Version: 0.0.1
+Summary: A package for helper function
+Home-page: UNKNOWN
+Author: Ankit Sakhuja
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIt License
+Classifier: Operating System :: OS Independent
+Requires-Python: >3.5
